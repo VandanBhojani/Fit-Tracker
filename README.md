@@ -10,6 +10,9 @@ MongoDB for Database
 ReactJS	For frontend development	
 NodeJS	For backend development	
 ExpressJS	For backend
+
+Deployed on Heroku Cloud Platform
+Link:https://fittracker01.herokuapp.com/
 	
 Installation
 Open the project directory in CMD. 
