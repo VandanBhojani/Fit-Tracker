@@ -13,13 +13,13 @@ ExpressJS	For backend
 	
 Installation
 Open the project directory in CMD. 
-cd .\FitTracker\
+cd .\Fit-Tracker\
 npm install
 Again go to the main folder
 cd .\backend\
 npm install
 Start react and server
-cd .\FitTracker\
+cd .\Fit-Tracker\
 npm start
 Again go the main folder
 cd .\backend\
