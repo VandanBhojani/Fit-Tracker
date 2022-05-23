@@ -1,5 +1,5 @@
 
-Vandan Bhojani – 19BCP136
+Vandan Bhojani 
 
 
 FitTracker using MERN Stack
